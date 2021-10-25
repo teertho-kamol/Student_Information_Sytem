@@ -1,0 +1,11 @@
+Name:likhon
+Email:likhon@gmail.com
+Gender:Male
+ID:201
+Course:Java
+Batch:31
+Fees:60000
+Paid:20000
+Due:40000
+Country:BD
+Contact:019 
